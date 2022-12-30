@@ -1,0 +1,23 @@
+---
+title-block-style: default
+title-block-banner: darkred
+title: "Personal Cloud"
+subtitle: "Getting Connected - The Basics"
+author: "Professor Peter Kille"
+date: today
+affiliation: "Cardiff University"
+format: 
+  html:
+    self-contained: true
+    code-background: true
+    embed-resources: true
+    smooth-scroll: true
+    theme: cosmo
+    fontcolor: black
+    toc: true
+    toc-location: left
+    toc-title: Summary
+    toc-depth: 3
+---
+
+# Bioinformatics Teaching Material
