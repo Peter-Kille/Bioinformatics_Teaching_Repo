@@ -2,7 +2,7 @@
 title-block-style: default
 title-block-banner: darkred
 title: "Key skills for Big Data Biology and Bioinformatics"
-subtitle: "Guide to unlocking your inner Bionformatian  "
+subtitle: "Guide to unlocking your inner bioinformatician"
 author: "Professor Peter Kille"
 date: today
 affiliation: "Cardiff University"
