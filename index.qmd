@@ -72,7 +72,7 @@ When you are zoomed in the resources appear in color coded spheres - red are lec
 
 This element of the course introduces you the the computational resources that have been provided for you to perform the training. It also covers a light guide to login in to the research platforms at Cardiff School of Biosciences. If you are research at Cardiff wanting to gain access to HPC please contact our (Biocompute team)\[http://hpc.bios.cf.ac.uk/contacts/\] and join the bioinformatics teams community. If you are outside Cardiff - find out about your local HPC provision. If there is none locally look into cloud service such as AWS and Google .... many of these provide limited free options which can help you to learn.
 
-# Linux The basics
+## Linux The basics
 
 This introduces you to the command line - yes no clicking on icons it is all about writing commands !!
 
