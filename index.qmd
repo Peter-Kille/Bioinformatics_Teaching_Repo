@@ -72,9 +72,22 @@ When you are zoomed in the resources appear in color coded spheres - red are lec
 
 This element of the course introduces you the the computational resources that have been provided for you to perform the training. It also covers a light guide to login in to the research platforms at Cardiff School of Biosciences. If you are research at Cardiff wanting to gain access to HPC please contact our (Biocompute team)\[http://hpc.bios.cf.ac.uk/contacts/\] and join the bioinformatics teams community. If you are outside Cardiff - find out about your local HPC provision. If there is none locally look into cloud service such as AWS and Google .... many of these provide limited free options which can help you to learn.
 
-## [Linux The basics](https://peter-kille.github.io/Bioinformatics_Teaching_Repo//1_Linux_NGS_Data_and_QC/Session1_Part1_Linux.html)
+# Linux The basics
 
-This introduces you to the command line - yes no clicking on icons it is all about writing commands !! We try and cover the basics of navigating around your linux system, auto-completion, file permissions and the fundamental anatomy of a linux command. We cover simple commands (copy/move ect), how to preview files (less/cat/head/tail) and how to edit file (we use Nano but look into Vi).
+This introduces you to the command line - yes no clicking on icons it is all about writing commands !! 
+
+[Introduction Linux](https://peter-kille.github.io/Bioinformatics_Teaching_Repo/1_Linux_NGS_Data_and_QC/Session1_Part1_Linux.html)
+
+This represent a rapid run through of the basics you need to get going on the commandline - lots of useful information and some basic exercises - copying / moving and learning about your linux environment this workshop is designed to get you start quickly.
+
+[Linux the fundementals](https://peter-kille.github.io/Bioinformatics_Teaching_Repo/1_Linux_NGS_Data_and_QC/1_Linux_fundermentals.html)
+
+This session places more detail about the linux basic covering navigating around your linux system (it has some graphical representations of your file system), auto-completion, file permissions and the fundamental anatomy of a linux command. We cover simple commands (copy/move ect), how to preview files (less/cat/head/tail) and how to edit file (we use Nano but look into Vi).
+
+[Commandline Tools and Scripting](https://peter-kille.github.io/Bioinformatics_Teaching_Repo/1_Linux_NGS_Data_and_QC/Commandline_Tools_and_Scripting.html)
+
+From more ways to visualize text file, query file with grep, using editors, running scripts and loops this material provides some more exercises to develop your skills.
+
 
 ## [An Introduction to NGS Data and Quality Control](https://peter-kille.github.io/Bioinformatics_Teaching_Repo/1_Linux_NGS_Data_and_QC/Session1_Part2_QC.html)
 
@@ -96,15 +109,15 @@ The taxonomic relationships between organisms can be derived through the genetic
 
 The has been divided into three workshops each targeted at different aspects of the process.
 
-### [RNAseq Data Processing](https://peter-kille.github.io/Bioinformatics_Teaching_Repo/5_Transcriptomics/RNASeqAnalysisExcerises.html)
+[RNAseq Data Processing](https://peter-kille.github.io/Bioinformatics_Teaching_Repo/5_Transcriptomics/RNASeqAnalysisExcerises.html)
 
 Transcriptomics is all about counting - this workshop cover how we get from raw RNAseq reads to counts given and known and annotated genome. We include approaches to identify and evaluate technical duplication - be aware this may not be relevant to your analytical approach.
 
-### [Generation of Differnential Gene DEG Lists](https://peter-kille.github.io/Bioinformatics_Teaching_Repo/5_Transcriptomics/Differential_Gene_Expression_Analysis.html)
+[Generation of Differnential Gene DEG Lists](https://peter-kille.github.io/Bioinformatics_Teaching_Repo/5_Transcriptomics/Differential_Gene_Expression_Analysis.html)
 
 Performing quality control and provisional data visualization (Volcano plots and MA) are all essential steps on before generating differential gene lists. Here we use [SARTools](https://github.com/PF2-pasteur-fr/SARTools) developed at the pasteur institute to illustrate best practice in transcriptome analysis. We also include multi-variant approach to data visualization such as PCA and HCA (Hierarchical clustering)
 
-### [Functional Interpreation of DEGs](https://peter-kille.github.io/Bioinformatics_Teaching_Repo/5_Transcriptomics/Transcriptomic_functional_analsyis.html)
+[Functional Interpreation of DEGs](https://peter-kille.github.io/Bioinformatics_Teaching_Repo/5_Transcriptomics/Transcriptomic_functional_analsyis.html)
 
 Interpreting the biological significant of a list of gene IDs or gene symbols representing your DEGs can be a significant but fun challenge. This course shows selection of tools that allow you to go from DEG to functional networks.
 
