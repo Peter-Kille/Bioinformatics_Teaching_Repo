@@ -74,7 +74,7 @@ This element of the course introduces you the the computational resources that h
 
 # Linux The basics
 
-This introduces you to the command line - yes no clicking on icons it is all about writing commands !! 
+This introduces you to the command line - yes no clicking on icons it is all about writing commands !!
 
 [Introduction Linux](https://peter-kille.github.io/Bioinformatics_Teaching_Repo/1_Linux_NGS_Data_and_QC/Session1_Part1_Linux.html)
 
@@ -87,7 +87,6 @@ This session places more detail about the linux basic covering navigating around
 [Commandline Tools and Scripting](https://peter-kille.github.io/Bioinformatics_Teaching_Repo/1_Linux_NGS_Data_and_QC/Commandline_Tools_and_Scripting.html)
 
 From more ways to visualize text file, query file with grep, using editors, running scripts and loops this material provides some more exercises to develop your skills.
-
 
 ## [An Introduction to NGS Data and Quality Control](https://peter-kille.github.io/Bioinformatics_Teaching_Repo/1_Linux_NGS_Data_and_QC/Session1_Part2_QC.html)
 
